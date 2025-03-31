@@ -1,0 +1,1 @@
+This are some basic stuff of Golang
