@@ -1,0 +1,9 @@
+version: "1.0"
+
+services:
+  secbapi-service:
+    container_name: secbapi-c
+    image: secbapi-imgage
+    build: .
+    ports:
+      - 8080:8060
